@@ -11,5 +11,12 @@
     "positioning"
   ],
   "author": "Cameron Hunter <hello@cameronhunter.co.uk>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.15.1",
+    "babel-preset-es2015-rollup": "^1.1.1",
+    "babel-preset-stage-1": "^6.5.0",
+    "rollup": "^0.26.3",
+    "rollup-plugin-babel": "^2.4.0"
+  }
 }
