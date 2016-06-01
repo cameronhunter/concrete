@@ -4,6 +4,7 @@
   "description": "Functions to help with absolute positioning",
   "main": "index.js",
   "scripts": {
+    "build": "rollup -c",
     "test": "ava"
   },
   "keywords": [
