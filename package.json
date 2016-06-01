@@ -1,0 +1,15 @@
+{
+  "name": "concrete",
+  "version": "0.0.0",
+  "description": "Functions to help with absolute positioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "absolute",
+    "positioning"
+  ],
+  "author": "Cameron Hunter <hello@cameronhunter.co.uk>",
+  "license": "MIT"
+}
